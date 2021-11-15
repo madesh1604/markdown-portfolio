@@ -1,2 +1,2 @@
- Your GitHub Learning Lab Repository for Communicating Using Markdown
+ Your GitHub Learning Lab Repository for the Communicating Using Markdown
 [link is here] (https://github.com)
