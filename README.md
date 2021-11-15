@@ -1,2 +1,2 @@
-This is repositary link
+This is repositary link is
 [GitHub](http://github.com)
